@@ -13,7 +13,20 @@
 
          <!--you can also place internal styles here;
              place these within <style> tags-->
-        
+        <script>
+    var mydiv = document.getElementById("mydiv");
+    mydiv.addEventListener("click", function(){
+        alert("Hello World!");
+    });
+</script>
+    <style>
+        #mydiv {
+            background-color: red;
+            width: 80%;
+            margin: 0 auto;
+            height: 100px;
+        }
+    </style>
     </head>
 
     <body>
