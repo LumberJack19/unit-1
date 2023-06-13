@@ -81,6 +81,6 @@ function addEvents(){
         alert('Hey, you clicked me!');
     };
     document.querySelector("table").addEventListener("click", clickme);
-};
+}; // This was missing
 
 window.onload = initialize;
