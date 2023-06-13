@@ -1,5 +1,5 @@
 # Web Mapping - Unit 1
 Repository for Unit 1 of the Web Mapping Workbook.
-- [Boiler Plate](boilerplate/index.html)
-- [Chapter 2](Chapter02/index.html)
-- [Chapter 3](Chapter03/index.html)
+- [Boiler Plate Code](boilerplate/index.html)   [Boiler Plate Preview](https://sounny.github.io/boilerplate/index.html)
+- [Chapter 2 Code](Chapter02/index.html)        [Chapter 2 Code Preview](https://sounny.github.io/Chapter02/index.html)
+- [Chapter 3 Code](Chapter03/index.html)        [Chapter 3 Code Preview](https://sounny.github.io/Chapter03/index.html)
